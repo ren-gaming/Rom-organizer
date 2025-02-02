@@ -18,6 +18,8 @@ cd ~/storage/downloads
 node organizeRoms.js
 Folder Structure
 The organized ROMs will be moved to designated subfolders such as:
+
+
 OrganizedROMs/
   └── NES/
   └── GameBoy/
