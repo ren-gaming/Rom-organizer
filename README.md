@@ -21,6 +21,7 @@ The organized ROMs will be moved to designated subfolders such as:
 
 
 OrganizedROMs/
+
   └── NES/
   └── GameBoy/
   └── SNES/
