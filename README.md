@@ -1,11 +1,8 @@
-install node.js 
+install node.js:
 pkg install nodejs
 
 
-create file organizeroms.js
-
-paste in the code 
-
+download- organizeroms.js
 
 navigate to the file:
 cd ~/storage/downloads
