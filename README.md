@@ -1,10 +1,12 @@
 ROM Organizer Script
+
 This project automates the process of organizing ROM files into categorized subfolders based on file types (e.g., NES, GameBoy, SNES). It helps keep your ROM collection neat and accessible.
 
 Features
+
 Automatically detects and organizes ROM files.
 Supports multiple ROM file types such as .nes, .gba, .sfc, and more.
-Skips duplicate files to prevent clutter.
+
 Installation and Usage
 1. Install Node.js
 pkg install nodejs
